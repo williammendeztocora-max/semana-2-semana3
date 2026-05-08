@@ -8,4 +8,4 @@ touch reflexion-semana2.txt
 git add .
 git commit -m "Actividad semana 2"
 git push
-Revisión final: Cruz Kelly
+
