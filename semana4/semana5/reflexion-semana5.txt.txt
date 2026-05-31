@@ -1,0 +1,7 @@
+Las APIs permiten organizar la información que comparten las comunidades.
+Facilitan el envío de reportes y mensajes de forma estructurada.
+Ayudan a mejorar la comunicación entre ciudadanos y plataformas.
+Permiten mayor participación y transparencia.
+Las APIs hacen posible automatizar procesos.
+Contribuyen a una gestión más eficiente de la información.
+Fortalecen la confianza dentro de la comunidad.
