@@ -1,3 +1,8 @@
-La ruta POST /reporte permite recibir información enviada por el usuario.
-Sirve para registrar mensajes o reportes.
-En una aplicación comunitaria puede usarse para enviar alertas o solicitudes.
+La ruta POST /reporte recibe información enviada por el usuario a través del cuerpo
+de la solicitud. En este caso, recibe un mensaje y responde confirmando que el
+reporte fue recibido correctamente.
+
+Esta ruta podría servir en una aplicación comunitaria para recibir reportes de
+problemas, alertas de seguridad, solicitudes o mensajes importantes enviados por
+los ciudadanos. De esta manera, la información se puede organizar y procesar de
+forma estructurada mediante una API.
